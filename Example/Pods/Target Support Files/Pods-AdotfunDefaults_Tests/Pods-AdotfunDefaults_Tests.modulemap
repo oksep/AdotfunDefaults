@@ -1,0 +1,6 @@
+framework module Pods_AdotfunDefaults_Tests {
+  umbrella header "Pods-AdotfunDefaults_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

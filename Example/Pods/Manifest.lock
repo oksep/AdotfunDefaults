@@ -1,0 +1,16 @@
+PODS:
+  - AdotfunDefaults (0.1.0)
+
+DEPENDENCIES:
+  - AdotfunDefaults (from `../`)
+
+EXTERNAL SOURCES:
+  AdotfunDefaults:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AdotfunDefaults: 454f8bb813c1c9f2b583dd39c61bc4ecc116446f
+
+PODFILE CHECKSUM: adda371901d9799542ae9308b59b059a24a15dfb
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AdotfunDefaults_Tests' do
+  pod 'AdotfunDefaults', :path => '../'
+  
+  
+end
