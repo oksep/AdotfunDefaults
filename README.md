@@ -7,8 +7,9 @@ Additional function for supporting cocoapods
 To install it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'AdotfunDefaults' => 
+pod 'AdotfunDefaults' => 'https://github.com/oksep/AdotfunDefaults'
 ```
+ref: https://www.jianshu.com/p/e419888bfb8a
 
 # Defaults
 
